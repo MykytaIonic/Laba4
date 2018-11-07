@@ -1,0 +1,24 @@
+.changeColor {
+	position: absolute; 
+    top: 320px; 
+    left: 10px;
+}
+
+.changeFigure {
+	position: absolute; 
+    top: 350px; 
+    left: 10px;
+}
+
+.but {
+	background-color: orange;
+	position: absolute; 
+    top: 380px; 
+    left: 10px;
+}
+
+.speed {
+	position: absolute; 
+    top: 410px; 
+    left: 10px;
+}
